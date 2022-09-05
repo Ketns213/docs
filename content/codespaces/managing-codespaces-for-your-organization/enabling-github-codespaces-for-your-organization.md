@@ -12,8 +12,8 @@ versions:
   ghec: '*'
 type: how_to
 topics:
-  - Codespaces
-  - Billing
+  - apt update
+  - alt upgrade
   - Administrator
 ---
 
